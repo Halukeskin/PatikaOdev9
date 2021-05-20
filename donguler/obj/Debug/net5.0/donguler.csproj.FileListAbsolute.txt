@@ -1,0 +1,16 @@
+C:\Users\Keskin\Desktop\pratikler\donguler\bin\Debug\net5.0\donguler.exe
+C:\Users\Keskin\Desktop\pratikler\donguler\bin\Debug\net5.0\donguler.deps.json
+C:\Users\Keskin\Desktop\pratikler\donguler\bin\Debug\net5.0\donguler.runtimeconfig.json
+C:\Users\Keskin\Desktop\pratikler\donguler\bin\Debug\net5.0\donguler.runtimeconfig.dev.json
+C:\Users\Keskin\Desktop\pratikler\donguler\bin\Debug\net5.0\donguler.dll
+C:\Users\Keskin\Desktop\pratikler\donguler\bin\Debug\net5.0\ref\donguler.dll
+C:\Users\Keskin\Desktop\pratikler\donguler\bin\Debug\net5.0\donguler.pdb
+C:\Users\Keskin\Desktop\pratikler\donguler\obj\Debug\net5.0\donguler.csprojAssemblyReference.cache
+C:\Users\Keskin\Desktop\pratikler\donguler\obj\Debug\net5.0\donguler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keskin\Desktop\pratikler\donguler\obj\Debug\net5.0\donguler.AssemblyInfoInputs.cache
+C:\Users\Keskin\Desktop\pratikler\donguler\obj\Debug\net5.0\donguler.AssemblyInfo.cs
+C:\Users\Keskin\Desktop\pratikler\donguler\obj\Debug\net5.0\donguler.csproj.CoreCompileInputs.cache
+C:\Users\Keskin\Desktop\pratikler\donguler\obj\Debug\net5.0\donguler.dll
+C:\Users\Keskin\Desktop\pratikler\donguler\obj\Debug\net5.0\ref\donguler.dll
+C:\Users\Keskin\Desktop\pratikler\donguler\obj\Debug\net5.0\donguler.pdb
+C:\Users\Keskin\Desktop\pratikler\donguler\obj\Debug\net5.0\donguler.genruntimeconfig.cache
